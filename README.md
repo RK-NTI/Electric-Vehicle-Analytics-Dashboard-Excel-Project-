@@ -1,6 +1,6 @@
 # Electric Vehicle Analytics Dashboard, Excel-Project
 • Developed an interactive Electric Vehicle Analytics Dashboard in Microsoft Excel to analyze vehicle performance and business metrics and
-Used Pivot Tables, Pivot Charts, Slicers, and Excel formulas to transform raw data into actionable business insights.
+  used Pivot Tables, Pivot Charts, Slicers, and Excel formulas to transform raw data into actionable business insights.
 # Key Responsibilities:
 Cleaned and prepared the dataset for analysis.
 Created Pivot Tables to summarize key metrics.
